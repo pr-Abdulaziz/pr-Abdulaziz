@@ -59,6 +59,7 @@ I'm a dedicated Computer Science student passionate about leveraging technology 
 
 ### 🤖 AI & Data Science
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -87,11 +88,27 @@ I'm a dedicated Computer Science student passionate about leveraging technology 
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pr-Abdulaziz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr-Abdulaziz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr-Abdulaziz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9&langs_count=8&hide=jupyter%20notebook" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr-Abdulaziz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <h2>
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="30px" height="30px">
+    Featured Projects
+  </h2>
+</div>
+
+<div align="center">
+  <a href="https://github.com/pr-Abdulaziz/project-name">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-Abdulaziz&repo=project-name&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9" />
+  </a>
+  <a href="https://github.com/pr-Abdulaziz/another-project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-Abdulaziz&repo=another-project&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9" />
+  </a>
 </div>
 
 <div align="center">
