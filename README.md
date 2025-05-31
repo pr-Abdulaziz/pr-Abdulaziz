@@ -76,29 +76,6 @@ C           ██████████████████████�
 
 ---
 
-## Featured Projects
-
-<div align="center">
-  
-  [![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=pr-Abdulaziz&repo=AI-Healthcare-Analytics&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9)](https://github.com/pr-Abdulaziz)
-  [![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=pr-Abdulaziz&repo=Smart-Campus-Management&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9)](https://github.com/pr-Abdulaziz)
-  
-</div>
-
-> **Note:** Replace the repository names above with your actual project repositories for accurate display.
-
----
-
-## Professional Highlights
-
-🏆 **Academic Excellence** - Maintaining high GPA in Computer Science program  
-🤝 **Team Collaboration** - Experience working in agile development teams  
-🔍 **Research Oriented** - Published research in AI applications  
-💡 **Innovation Driven** - Developed solutions for real-world problems  
-🌱 **Continuous Learning** - Active participant in tech communities and workshops  
-
----
-
 ## Connect With Me
 
 <div align="center">
