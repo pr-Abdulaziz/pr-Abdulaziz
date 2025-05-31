@@ -103,16 +103,12 @@ mindmap
 ## <div align="center">📊 GitHub Analytics & Achievements</div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pr-Abdulaziz&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" width="100%" alt="Trophy" />
-</div>
-
-<div align="center">
   <h3>📈 Contribution & Activity</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pr-Abdulaziz&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph">
 </div>
 
 <div align="center">
-    <summary><h3>📊 Detailed Statistics</h3></summary>
+    <h3>📊 Detailed Statistics</h3>
     <table>
       <tr>
         <td width="45%">
