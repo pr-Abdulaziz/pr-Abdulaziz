@@ -71,77 +71,6 @@
 </div>
 
 ---
-
-## <div align="center">🎯 Featured Projects</div>
-
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-
-### 🧠 AI/ML Projects
-- **Neural Network Architectures**
-  - Custom deep learning models
-  - Computer vision applications
-  - Natural language processing
-
-- **Data Analysis Platforms**
-  - Real-time analytics dashboards
-  - Predictive modeling systems
-  - Statistical analysis tools
-
-</td>
-<td width="50%">
-
-### 💻 Web Development
-- **Full-Stack Applications**
-  - React-based user interfaces
-  - RESTful API development
-  - Database design & optimization
-
-- **Cloud Solutions**
-  - Scalable architecture design
-  - CI/CD pipeline implementation
-  - Performance optimization
-
-</td>
-</tr>
-</table>
-</div>
-
----
-
-## <div align="center">🌟 What Sets Me Apart</div>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60px"/>
-<br><strong>Problem Solver</strong>
-<br>Complex challenges drive innovation
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-de3897a1-85c5-4d97-b86c-c72e8a6b7f9d.gif" width="60px"/>
-<br><strong>Tech Enthusiast</strong>
-<br>Always exploring cutting-edge technologies
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="60px"/>
-<br><strong>Code Quality</strong>
-<br>Clean, efficient, and maintainable code
-</td>
-<td align="center" width="25%">
-<img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60px"/>
-<br><strong>Collaboration</strong>
-<br>Open source contributor and team player
-</td>
-</tr>
-</table>
-</div>
-
----
-
 ## <div align="center">🎓 Academic & Professional Focus</div>
 
 <div align="center">
@@ -170,6 +99,76 @@ mindmap
 </div>
 
 ---
+
+## <div align="center">📊 GitHub Analytics & Achievements</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pr-Abdulaziz&theme=algolia&no-frame=true&no-bg=true&row=1&column=6&margin-w=15" width="100%" alt="Trophy" />
+</div>
+
+<div align="center">
+  <h3>📈 Contribution & Activity</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pr-Abdulaziz&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph">
+</div>
+
+<div align="center">
+  <details>
+    <summary><h3>📊 Detailed Statistics</h3></summary>
+    <table>
+      <tr>
+        <td width="45%">
+          <a href="https://github.com/pr-Abdulaziz">
+            <img src="https://github-readme-stats.vercel.app/api?username=pr-Abdulaziz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&custom_title=My%20GitHub%20Statistics" alt="GitHub Stats" width="100%">
+          </a>
+        </td>
+        <td width="45%">
+          <a href="https://github.com/pr-Abdulaziz">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr-Abdulaziz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" width="100%">
+          </a>
+        </td>
+      </tr>
+    </table>
+    <table>
+      <tr>
+        <td width="45%">
+          <a href="https://github.com/pr-Abdulaziz">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr-Abdulaziz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9&langs_count=8&custom_title=Top%20Languages" alt="Top Languages" width="100%">
+          </a>
+        </td>
+        <td width="45%">
+          <a href="https://github.com/pr-Abdulaziz">
+            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pr-Abdulaziz&theme=github_dark&utcOffset=3" alt="Commit Activity" width="100%">
+          </a>
+        </td>
+      </tr>
+    </table>
+  </details>
+
+  <h3>🏆 Recent Achievements</h3>
+  <p>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pr-Abdulaziz&theme=github_dark" width="95%" alt="Activity Summary">
+  </p>
+</div>
+
+<div align="center">
+  <h3>📌 Highlighted Repositories</h3>
+  <a href="https://github.com/pr-Abdulaziz/YOUR_BEST_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-Abdulaziz&repo=YOUR_BEST_REPO&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9" alt="Highlighted Repo 1">
+  </a>
+  &nbsp;
+  <a href="https://github.com/pr-Abdulaziz/ANOTHER_BEST_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-Abdulaziz&repo=ANOTHER_BEST_REPO&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9" alt="Highlighted Repo 2">
+  </a>
+</div>
+
+<div align="center">
+  <h3>⚡ Contribution Snake</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pr-Abdulaziz/pr-Abdulaziz/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pr-Abdulaziz/pr-Abdulaziz/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pr-Abdulaziz/pr-Abdulaziz/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ## <div align="center">💬 Let's Connect & Collaborate</div>
 
