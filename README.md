@@ -112,7 +112,6 @@ mindmap
 </div>
 
 <div align="center">
-  <details>
     <summary><h3>📊 Detailed Statistics</h3></summary>
     <table>
       <tr>
@@ -128,21 +127,6 @@ mindmap
         </td>
       </tr>
     </table>
-    <table>
-      <tr>
-        <td width="45%">
-          <a href="https://github.com/pr-Abdulaziz">
-            <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pr-Abdulaziz&theme=github_dark&utcOffset=3" alt="Commit Activity" width="100%">
-          </a>
-        </td>
-      </tr>
-    </table>
-  </details>
-
-  <h3>🏆 Recent Achievements</h3>
-  <p>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pr-Abdulaziz&theme=github_dark" width="95%" alt="Activity Summary">
-  </p>
 </div>
 
 ## <div align="center">💬 Let's Connect & Collaborate</div>
