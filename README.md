@@ -45,28 +45,10 @@ I'm a dedicated Computer Science student passionate about leveraging technology 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr-Abdulaziz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9&langs_count=10&card_width=400" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr-Abdulaziz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" />
-</div>
-
 <!-- Automated Language Breakdown - Updates automatically based on repository commits -->
 <div align="center">
   <h3>🔥 Most Active Languages (Auto-Updated)</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr-Abdulaziz&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9&langs_count=8&size_weight=0.5&count_weight=0.5" />
-</div>
-
-<!-- Enhanced Language Statistics with Wakatime (Optional - requires setup) -->
-<div align="center">
-  <h3>📊 Detailed Language & Activity Stats</h3>
-  <!-- Uncomment and add your Wakatime username if you want more detailed coding stats -->
-  <!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@your-wakatime-username&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9" /> -->
-</div>
-
-<div align="center">
-  <h2>
-    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="30px" height="30px">
-    Technical Stack
-  </h2>
 </div>
 
 <!-- Updated to reflect your actual most-used languages based on the image -->
@@ -111,13 +93,6 @@ I'm a dedicated Computer Science student passionate about leveraging technology 
 
 </div>
 
-<!-- Activity Graph -->
-<div align="center">
-  <h2>
-    <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="30px" height="30px">
-    Contribution Activity
-  </h2>
-</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pr-Abdulaziz&bg_color=0D1117&color=2F81F7&line=2F81F7&point=C9D1D9&area=true&hide_border=true" alt="GitHub Activity Graph" />
