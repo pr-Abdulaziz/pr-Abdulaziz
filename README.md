@@ -132,11 +132,6 @@ mindmap
       <tr>
         <td width="45%">
           <a href="https://github.com/pr-Abdulaziz">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr-Abdulaziz&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9&langs_count=8&custom_title=Top%20Languages" alt="Top Languages" width="100%">
-          </a>
-        </td>
-        <td width="45%">
-          <a href="https://github.com/pr-Abdulaziz">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pr-Abdulaziz&theme=github_dark&utcOffset=3" alt="Commit Activity" width="100%">
           </a>
         </td>
@@ -148,26 +143,6 @@ mindmap
   <p>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pr-Abdulaziz&theme=github_dark" width="95%" alt="Activity Summary">
   </p>
-</div>
-
-<div align="center">
-  <h3>📌 Highlighted Repositories</h3>
-  <a href="https://github.com/pr-Abdulaziz/YOUR_BEST_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-Abdulaziz&repo=YOUR_BEST_REPO&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9" alt="Highlighted Repo 1">
-  </a>
-  &nbsp;
-  <a href="https://github.com/pr-Abdulaziz/ANOTHER_BEST_REPO">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pr-Abdulaziz&repo=ANOTHER_BEST_REPO&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9" alt="Highlighted Repo 2">
-  </a>
-</div>
-
-<div align="center">
-  <h3>⚡ Contribution Snake</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pr-Abdulaziz/pr-Abdulaziz/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pr-Abdulaziz/pr-Abdulaziz/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pr-Abdulaziz/pr-Abdulaziz/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ## <div align="center">💬 Let's Connect & Collaborate</div>
