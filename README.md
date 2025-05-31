@@ -1,22 +1,32 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello World!
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hello, I'm Abdulaziz!
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6495ED&center=true&vCenter=true&width=435&lines=Computer+Science+Student;AI+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation"/>
+</div>
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student with a deep passion for Artificial Intelligence and web development. I love turning complex problems into elegant solutions through code.
+I'm a passionate Computer Science student with a keen interest in Artificial Intelligence and web development. I believe in the power of technology to transform ideas into impactful solutions.
+
+<img align="right" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"/>
 
 - 🎓 Currently pursuing a degree in Computer Science
 - 🌱 Exploring the fascinating world of AI and Machine Learning
 - 💻 Building modern web applications with cutting-edge technologies
 - 🔭 Always eager to learn and tackle new challenges
+- 📚 Constantly expanding my knowledge in software development
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote"/>
-</div>
+<br>
 
 ## 🛠️ Technologies & Tools
 
 <details open>
-<summary>Languages</summary>
+<summary><b>🔤 Languages</b></summary>
+<br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -28,7 +38,8 @@ I'm a Computer Science student with a deep passion for Artificial Intelligence a
 </details>
 
 <details open>
-<summary>Frameworks & Libraries</summary>
+<summary><b>🎨 Frameworks & Libraries</b></summary>
+<br>
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -40,7 +51,8 @@ I'm a Computer Science student with a deep passion for Artificial Intelligence a
 </details>
 
 <details open>
-<summary>AI & Data Science</summary>
+<summary><b>🤖 AI & Data Science</b></summary>
+<br>
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -51,7 +63,8 @@ I'm a Computer Science student with a deep passion for Artificial Intelligence a
 </details>
 
 <details open>
-<summary>Databases</summary>
+<summary><b>🗄️ Databases</b></summary>
+<br>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -59,34 +72,44 @@ I'm a Computer Science student with a deep passion for Artificial Intelligence a
 
 </details>
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pr-Abdulaziz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=pr-Abdulaziz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=pr-Abdulaziz&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr-Abdulaziz&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr-Abdulaziz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
+
+## 🌟 Featured Projects
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr-Abdulaziz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <a href="https://github.com/pr-Abdulaziz">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pr-Abdulaziz&repo=YOUR_BEST_REPO_1&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/pr-Abdulaziz">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pr-Abdulaziz&repo=YOUR_BEST_REPO_2&theme=tokyonight&hide_border=true" />
+  </a>
 </div>
 
-## 🏆 GitHub Trophies
+## 📫 Let's Connect!
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pr-Abdulaziz&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
-</div>
-
-## 📫 Connect With Me
-
+  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alqahtaniAHR@outlook.com)
 [![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/https://abdulaziz-alqahtani.netlify.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://abdulaziz-alqahtani.netlify.app/)
 
----
+</div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pr-Abdulaziz&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+</div>
+
+<!-- Proudly created with passion and code ❤️ -->
