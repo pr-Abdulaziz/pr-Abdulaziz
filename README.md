@@ -35,25 +35,16 @@ I care about work that can be justified with evidence, shipped with clarity, and
 
 ## 🔬 Fields of Focus
 
-```
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│   🤖  Multimodal AI          Vision-language models,        │
-│       & Evaluation           hallucination benchmarking,    │
-│                              preference alignment (DPO)     │
-│                                                             │
-│   🖼️  Computer Vision        Object detection, X-ray        │
-│                              imagery, YOLO, RT-DETR         │
-│                                                             │
-│   🌐  Arabic NLP             Deepfake text detection,       │
-│                              OCR pipelines, transformer     │
-│                              fine-tuning                    │
-│                                                             │
-│   🏗️  Full-Stack             React, Node.js, REST APIs,     │
-│       Engineering            database-backed products       │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+| | Field | What I work on | Key Tools |
+|:---:|:---|:---|:---|
+| 🤖 | **Multimodal AI & Evaluation** | Vision-language models, hallucination benchmarking, preference alignment | LLaVA · DPO · HSA-DPO · POPE · AMBER |
+| 🖼️ | **Computer Vision** | Object detection, X-ray imagery analysis, model comparison | YOLO11s · RT-DETRv2 · PyTorch · PIDray |
+| 🌐 | **Arabic NLP** | Deepfake text detection, OCR pipelines, transformer fine-tuning | CAMeLBERT · MARBERTv2 · AraBERTv2 · YOLOv8 |
+| 🏗️ | **Full-Stack Engineering** | REST APIs, database-backed products, clean UI systems | React · Node.js · Express · MongoDB |
+
+</div>
 
 ---
 
