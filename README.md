@@ -1,152 +1,91 @@
-# <div align="center">Abdulaziz Alqahtani</div>
+# Abdulaziz Alqahtani
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+Machine+Learning+Engineer;Full+Stack+Developer;Innovation+Through+Code" alt="Dynamic Typing" />
+  <strong>Computer Science Student - AI/ML Engineer - Full-Stack Developer</strong>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&animation=twinkling" width="100%"/>
+  <p>
+    I design and build practical software that combines reliable engineering, intelligent systems, and clean user experiences.
+    My work sits at the intersection of machine learning, product thinking, and modern web development.
+  </p>
 </div>
 
-## <div align="center">🚀 About Me</div>
-
 <div align="center">
-<table>
-<tr>
-<td>
-
-**🎯 Current Focus**
-- Advanced AI/ML Research & Development
-- Scalable Web Application Architecture
-- Open Source Contribution & Leadership
-- Cutting-edge Technology Integration
-
-</td>
-<td>
-
-**💡 Expertise Areas**
-- Machine Learning & Neural Networks
-- Full-Stack Development (React/Node.js)
-- Data Science & Analytics
-- Cloud Computing & DevOps
-
-</td>
-</tr>
-</table>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </div>
 
 ---
 
-## <div align="center">⚡ Core Technologies</div>
+## Snapshot
+
+| Area | Focus |
+| --- | --- |
+| AI / ML | Deep learning, computer vision, NLP, model evaluation |
+| Full-Stack Development | React, Node.js, API design, responsive interfaces |
+| Data & Engineering | Analytics, data pipelines, Docker, PostgreSQL, MongoDB |
+| Collaboration | Open-source contribution, technical communication, product thinking |
+
+## What I Build
+
+- Applied AI/ML projects with a practical, engineering-first approach
+- Maintainable web applications with clean structure and clear ownership
+- Reliable workflows for deployment, automation, and iteration
+- Software that balances performance, usability, and long-term maintainability
+
+## Core Stack
+
+**Languages:** Python, JavaScript, Java  
+**Frontend:** React, HTML, CSS, responsive UI development  
+**Backend:** Node.js, REST APIs, database-driven applications  
+**ML / Data:** TensorFlow, PyTorch, scikit-learn, Pandas, NumPy  
+**Tools:** Git, Docker, MongoDB, PostgreSQL, Linux
+
+## Working Principles
+
+- Clarity first: keep systems understandable and decisions visible
+- Build for durability: prefer maintainable code over short-term shortcuts
+- Measure impact: focus on outcomes that matter to users and teams
+- Collaborate well: communicate clearly and leave room for iteration
+
+## GitHub Activity
 
 <div align="center">
-
-### 🔥 Primary Stack
-<p>
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-</p>
-
-### 🤖 AI/ML & Data Science
-<p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### 🛠️ Development Tools
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
-
-</div>
-
----
-## <div align="center">🎓 Academic & Professional Focus</div>
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Abdulaziz))
-    Computer Science
-      Algorithms & Data Structures
-      Software Engineering
-      System Design
-    AI & Machine Learning
-      Deep Learning
-      Computer Vision
-      NLP
-    Development
-      Full-Stack Web Dev
-      Mobile Applications
-      Cloud Architecture
-    Research
-      Innovation Projects
-      Open Source
-      Tech Leadership
-```
-
-</div>
-
----
-
-## <div align="center">📊 GitHub Analytics & Achievements</div>
-
-<div align="center">
-  <h3>📈 Contribution & Activity</h3>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pr-Abdulaziz&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph">
 </div>
 
 <div align="center">
-    <h3>📊 Detailed Statistics</h3>
-    <table>
-      <tr>
-        <td width="45%">
-          <a href="https://github.com/pr-Abdulaziz">
-            <img src="https://github-readme-stats.vercel.app/api?username=pr-Abdulaziz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&custom_title=My%20GitHub%20Statistics" alt="GitHub Stats" width="100%">
-          </a>
-        </td>
-        <td width="45%">
-          <a href="https://github.com/pr-Abdulaziz">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr-Abdulaziz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" width="100%">
-          </a>
-        </td>
-      </tr>
-    </table>
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=pr-Abdulaziz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&custom_title=GitHub%20Statistics" alt="GitHub Stats" width="100%">
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr-Abdulaziz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" width="100%">
+      </td>
+    </tr>
+  </table>
 </div>
 
-## <div align="center">💬 Let's Connect & Collaborate</div>
+## Contact
 
 <div align="center">
   <a href="mailto:alqahtaniAHR@outlook.com">
-    <img src="https://img.shields.io/badge/📧_Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&labelColor=0078D4" alt="Email" height="40"/>
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" height="40"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://abdulaziz-alqahtani.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Portfolio" height="40"/>
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" height="40"/>
   </a>
 </div>
 
-<br>
+---
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower.&author=Steve%20Jobs" alt="Inspirational Quote"/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=twinkling" width="100%"/>
-</div>
-
-<div align="center">
-  <sub>🚀 Crafting the future through code, one commit at a time</sub>
+  <sub>Building useful technology with clarity, consistency, and purpose.</sub>
 </div>
