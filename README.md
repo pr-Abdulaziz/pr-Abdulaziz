@@ -1,91 +1,125 @@
-# Abdulaziz Alqahtani
-
 <div align="center">
-  <strong>Computer Science Student - AI/ML Engineer - Full-Stack Developer</strong>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=200&section=header&text=Abdulaziz%20Alqahtani&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Computer%20Science%20%40%20KFUPM&descAlignY=62&descColor=CBD5E1&animation=fadeIn" width="100%" alt="Header"/>
+
 </div>
 
 <div align="center">
-  <p>
-    I design and build practical software that combines reliable engineering, intelligent systems, and clean user experiences.
-    My work sits at the intersection of machine learning, product thinking, and modern web development.
-  </p>
-</div>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&pause=1400&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+grounded+in+rigorous+engineering;Vision-Language+Models+%E2%80%A2+Arabic+NLP+%E2%80%A2+Computer+Vision;Full-Stack+Product+Engineering+%E2%80%A2+Research+Pipelines)](https://git.io/typing-svg)
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0EA5E9?style=flat-square&logo=vercel&logoColor=white)](https://abdulaziz-alqahtani.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulaziz-alqahtani-27ba88363/)
+[![Email](https://img.shields.io/badge/Email-Contact-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:alqahtaniAHR@outlook.com)
+
 </div>
 
 ---
 
-## Snapshot
+<img align="right" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr-Abdulaziz&layout=donut&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CBD5E1&langs_count=8" alt="Top Languages"/>
 
-| Area | Focus |
-| --- | --- |
-| AI / ML | Deep learning, computer vision, NLP, model evaluation |
-| Full-Stack Development | React, Node.js, API design, responsive interfaces |
-| Data & Engineering | Analytics, data pipelines, Docker, PostgreSQL, MongoDB |
-| Collaboration | Open-source contribution, technical communication, product thinking |
+## 🧭 Career Path
 
-## What I Build
+I'm a computer science student at **KFUPM** building toward a career at the intersection of **AI research** and **engineering**. My path is defined by two parallel tracks that reinforce each other:
 
-- Applied AI/ML projects with a practical, engineering-first approach
-- Maintainable web applications with clean structure and clear ownership
-- Reliable workflows for deployment, automation, and iteration
-- Software that balances performance, usability, and long-term maintainability
+- **Research track** — working on multimodal AI, NLP, and evaluation methodologies that are measurable and reproducible
+- **Engineering track** — delivering full-stack products with clean structure, reliable APIs, and thoughtful UX
 
-## Core Stack
+I care about work that can be justified with evidence, shipped with clarity, and maintained over time.
 
-**Languages:** Python, JavaScript, Java  
-**Frontend:** React, HTML, CSS, responsive UI development  
-**Backend:** Node.js, REST APIs, database-driven applications  
-**ML / Data:** TensorFlow, PyTorch, scikit-learn, Pandas, NumPy  
-**Tools:** Git, Docker, MongoDB, PostgreSQL, Linux
+<br clear="right"/>
 
-## Working Principles
+---
 
-- Clarity first: keep systems understandable and decisions visible
-- Build for durability: prefer maintainable code over short-term shortcuts
-- Measure impact: focus on outcomes that matter to users and teams
-- Collaborate well: communicate clearly and leave room for iteration
+## 🔬 Fields of Focus
 
-## GitHub Activity
+```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   🤖  Multimodal AI          Vision-language models,        │
+│       & Evaluation           hallucination benchmarking,    │
+│                              preference alignment (DPO)     │
+│                                                             │
+│   🖼️  Computer Vision        Object detection, X-ray        │
+│                              imagery, YOLO, RT-DETR         │
+│                                                             │
+│   🌐  Arabic NLP             Deepfake text detection,       │
+│                              OCR pipelines, transformer     │
+│                              fine-tuning                    │
+│                                                             │
+│   🏗️  Full-Stack             React, Node.js, REST APIs,     │
+│       Engineering            database-backed products       │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## ⚙️ Technology Stack
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pr-Abdulaziz&theme=react-dark&hide_border=true&area=true" width="95%" alt="Activity Graph">
+
+**AI / ML & Research**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Frontend & Backend**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tooling**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 </div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pr-Abdulaziz&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=38BDF8&line=38BDF8&point=FFFFFF&area_color=1e40af30" width="95%" alt="Contribution Graph"/>
+</div>
+
+<br/>
 
 <div align="center">
   <table>
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=pr-Abdulaziz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&custom_title=GitHub%20Statistics" alt="GitHub Stats" width="100%">
+        <img src="https://github-readme-stats.vercel.app/api?username=pr-Abdulaziz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&custom_title=GitHub+Overview&rank_icon=github" alt="GitHub Stats" width="100%">
       </td>
       <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr-Abdulaziz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=2F81F7&ring=2F81F7&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak" width="100%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr-Abdulaziz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=38BDF8&ring=38BDF8&fire=FB923C&currStreakLabel=CBD5E1&sideLabels=CBD5E1&dates=64748B" alt="GitHub Streak" width="100%">
       </td>
     </tr>
   </table>
 </div>
 
-## Contact
-
-<div align="center">
-  <a href="mailto:alqahtaniAHR@outlook.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" height="40"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://abdulaziz-alqahtani.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" height="40"/>
-  </a>
-</div>
-
 ---
 
 <div align="center">
-  <sub>Building useful technology with clarity, consistency, and purpose.</sub>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,30&height=100&section=footer" width="100%" alt="Footer"/>
+  <sub>Dhahran, Saudi Arabia 🇸🇦 · Building with clarity, consistency, and purpose</sub>
 </div>
