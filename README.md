@@ -7,4 +7,4 @@ I'm a Computer Science student at **KFUPM** building toward a career at the inte
 
 > 💡 I care about work that can be **justified with evidence**, **shipped with clarity**, and **maintained over time**.
 
-📍 Dhahran, Saudi Arabia &nbsp;·&nbsp; 🎓 KFUPM &nbsp;·&nbsp; 🌐 [abdulaziz-alqahtani.netlify.app](https://abdulaziz-alqahtani.netlify.app/)
+📍 Dhahran, Saudi Arabia &nbsp;·&nbsp; 🎓 KFUPM &nbsp;·&nbsp;
